@@ -9,9 +9,9 @@
     g++ -g main.cpp
 
 ## 커맨드 예시
-i [key]
-d [key]
-t [key>]
+- i [key]
+- d [key]
+- t [key]
 
 ## 커맨드 설명
 - i [key] : 트리에 value가 key인 노드를 삽입한다.
